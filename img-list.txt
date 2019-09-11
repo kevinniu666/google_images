@@ -1,1 +1,2 @@
 k8s.gcr.io/kube-apiserver:v1.13.0
+gcr.io/kuar-demo/kuard-amd64:1
